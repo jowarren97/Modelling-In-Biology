@@ -1,3 +1,5 @@
+%Algorithmic Implementation of Deterministic Euler Method
+
 clear all;
 
 %% h = 0.01
