@@ -1,3 +1,5 @@
+%Analysis of Discrete Time Markov Chain
+
 clear all;
 clc;
 
