@@ -1,3 +1,5 @@
+%Implementation of Stochastic Euler Algorithm
+
 clear all;
 xsum = 0;
 
