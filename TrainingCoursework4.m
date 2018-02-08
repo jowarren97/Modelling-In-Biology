@@ -1,3 +1,5 @@
+%Numerical Solutions, Nullclines & Trajectories of Nonlinear system
+
 clear all;
 clc;
 
